@@ -1,0 +1,792 @@
+{
+  "textures": [
+    {
+      "image": "effects_atlas.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 1600,
+        "h": 1000
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "cleaver_spin_00",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "cleaver_spin_01",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 200,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "cleaver_spin_02",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 400,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "cleaver_spin_03",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 600,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "cleaver_spin_04",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 800,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_meat",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1000,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_rare",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1200,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_key",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1400,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_plus10",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 0,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_plus50",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 200,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_plus100",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 400,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_crate",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 600,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_ice",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 800,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "burst_cleaver",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1000,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_score_meat",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1200,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_score_rare",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1400,
+            "y": 200,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_score_key",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 0,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_plus10",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 200,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_plus50",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 400,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_plus100",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 600,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_crate_break",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 800,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_ice_break",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1000,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_cleaver_hit",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1200,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_sparkle",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1400,
+            "y": 400,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_speed_trail",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 0,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_meat_drops",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 200,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_red_burst",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 400,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_smoke",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 600,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_dust",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 800,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_stars",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1000,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "fx_speed_streak",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1200,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "heart_full",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 1400,
+            "y": 600,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "heart_broken",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 0,
+            "y": 800,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "heart_empty",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 200,
+            "y": 800,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "powerup_shield",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 400,
+            "y": 800,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "powerup_magnet",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 600,
+            "y": 800,
+            "w": 200,
+            "h": 200
+          }
+        },
+        {
+          "filename": "powerup_timer",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 200,
+            "h": 200
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 200,
+            "h": 200
+          },
+          "frame": {
+            "x": 800,
+            "y": 800,
+            "w": 200,
+            "h": 200
+          }
+        }
+      ]
+    }
+  ]
+}
